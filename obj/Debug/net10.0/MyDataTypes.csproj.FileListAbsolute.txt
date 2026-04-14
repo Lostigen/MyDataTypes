@@ -1,0 +1,14 @@
+C:\DevIsFun\MyDataTypes\bin\Debug\net10.0\MyDataTypes.exe
+C:\DevIsFun\MyDataTypes\bin\Debug\net10.0\MyDataTypes.deps.json
+C:\DevIsFun\MyDataTypes\bin\Debug\net10.0\MyDataTypes.runtimeconfig.json
+C:\DevIsFun\MyDataTypes\bin\Debug\net10.0\MyDataTypes.dll
+C:\DevIsFun\MyDataTypes\bin\Debug\net10.0\MyDataTypes.pdb
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\MyDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\MyDataTypes.AssemblyInfoInputs.cache
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\MyDataTypes.AssemblyInfo.cs
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\MyDataTypes.csproj.CoreCompileInputs.cache
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\MyDataTypes.dll
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\refint\MyDataTypes.dll
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\MyDataTypes.pdb
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\MyDataTypes.genruntimeconfig.cache
+C:\DevIsFun\MyDataTypes\obj\Debug\net10.0\ref\MyDataTypes.dll
